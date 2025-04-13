@@ -1,3 +1,5 @@
+#Algoritmo para Adicionar/Excluir/Visualizar produtos em um arquivo JSON.
+
 import json
 import os
 
